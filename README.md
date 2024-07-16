@@ -1,4 +1,4 @@
-# Extract Hint Data with Display, Refresh, Copy, and Labels
+# Extract Hint Data 
 
 This Violent Monkey user script extracts number and text from divs with `aria-label="Select hint"` and displays them in a window. It also adds "ACROSS" and "DOWN" labels to indicate the orientation of the hints, provides a copy button to copy the entire output to the clipboard, and refreshes the data every second without resetting the scroll position.
 
