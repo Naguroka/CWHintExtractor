@@ -9,6 +9,7 @@ This Violent Monkey user script extracts number and text from divs with `aria-la
 - Adds "ACROSS" at the start and "DOWN" with a newline when the numbers jump back to a lower number.
 - Refreshes the data every second.
 - Provides a copy button to copy the entire output to the clipboard.
+- Works with Darkmode!
 
 ## Installation
 
